@@ -34,6 +34,6 @@ pandas sk-learn lightgbm
 
 
 ## Статус проекта 
-Активен
+Завершен
 
 
